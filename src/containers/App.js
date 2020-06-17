@@ -3,7 +3,6 @@ import CardList from '../components/CardList.js';
 import SearchBox from '../components/SearchBox.js'
 import Scroll from '../components/Scroll.js'
 import ErrorBoundry from '../components/ErrorBoundry.js';
-import '.'
 // App.js is called the "smart components"
 
 class App extends React.Component {
